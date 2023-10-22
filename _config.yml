@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haoyu Wu's Homepage"
+title                    : "Hao-Yu WU's Homepage"
 title_separator          : "-"
-name                     : &name "Haoyu Wu"
+name                     : &name "Hao-Yu WU"
 description              : &description "I'm a PhD student studying algebraic geometry at Fudan university, Shanghai."
 url                      : https://hywu-ag.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
