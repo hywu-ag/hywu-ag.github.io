@@ -16,4 +16,4 @@ I’m now a PhD student at the School of Mathematics, Fudan University, supervis
 - algebraic cycles
 - Hodge theory
   
-For details, you can see the pdf version of my [CV]{/files/CV-Haoyu Wu.pdf}.
+For details, you can see the pdf version of my [CV](/files/CV-Haoyu Wu.pdf).
